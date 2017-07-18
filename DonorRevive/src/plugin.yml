@@ -1,0 +1,8 @@
+name: ZorohRevive
+author: Siaco
+version: 1
+description: Revive
+main: me.siaco.revive.Main
+commands:
+  zoroh:
+    description: ZorohRevive
